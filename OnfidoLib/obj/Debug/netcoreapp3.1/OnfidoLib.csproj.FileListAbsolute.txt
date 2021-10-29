@@ -1,0 +1,19 @@
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.csprojAssemblyReference.cache
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.AssemblyInfoInputs.cache
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.AssemblyInfo.cs
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.csproj.CoreCompileInputs.cache
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/bin/Debug/netcoreapp3.1/OnfidoLib.deps.json
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/bin/Debug/netcoreapp3.1/OnfidoLib.dll
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/bin/Debug/netcoreapp3.1/OnfidoLib.pdb
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.dll
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.pdb
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/bin/Debug/netcoreapp3.1/OnfidoLib.deps.json
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/bin/Debug/netcoreapp3.1/OnfidoLib.dll
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/bin/Debug/netcoreapp3.1/OnfidoLib.pdb
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.csproj.AssemblyReference.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.AssemblyInfoInputs.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.AssemblyInfo.cs
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.csproj.CoreCompileInputs.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.dll
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/obj/Debug/netcoreapp3.1/OnfidoLib.pdb

@@ -1,0 +1,38 @@
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.exe
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.deps.json
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.runtimeconfig.json
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.runtimeconfig.dev.json
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.dll
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.pdb
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/MimeTypes.dll
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLib.dll
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLib.pdb
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.csprojAssemblyReference.cache
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.AssemblyInfoInputs.cache
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.AssemblyInfo.cs
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.csproj.CoreCompileInputs.cache
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.csproj.CopyComplete
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.dll
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.pdb
+D:/@work/1.ONFIDO/C# Wrapper/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.genruntimeconfig.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.deps.json
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.runtimeconfig.json
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.runtimeconfig.dev.json
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.dll
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLibClient.pdb
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/MimeTypes.dll
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLib.dll
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/OnfidoLib.pdb
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.csproj.AssemblyReference.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.AssemblyInfoInputs.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.AssemblyInfo.cs
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.csproj.CoreCompileInputs.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.csproj.CopyComplete
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.dll
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.pdb
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/obj/Debug/netcoreapp3.1/OnfidoLibClient.genruntimeconfig.cache
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/sample_driving_licence.png
+/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLibClient/bin/Debug/netcoreapp3.1/sample_live_photo.png

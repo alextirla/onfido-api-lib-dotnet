@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zt7IwOw22hhrbDcEaV7EFY8DCeD5K5Dydr0I3PGlj+pVhn3SnbVdsC/8z5LAQKC/z9MBXKrTmchSZMML8GHzaw==",
+  "success": true,
+  "projectFilePath": "/Users/alex.tirla/Documents/Onfido/OnfidoLib.NET/OnfidoLib/OnfidoLib.csproj",
+  "expectedPackageFiles": [
+    "/Users/alex.tirla/.nuget/packages/mimetypemapofficial/1.0.17/mimetypemapofficial.1.0.17.nupkg.sha512",
+    "/Users/alex.tirla/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

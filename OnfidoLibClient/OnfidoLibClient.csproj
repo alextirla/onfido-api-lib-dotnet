@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OnfidoLib\OnfidoLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="sample_driving_licence.png" />
+    <None Remove="sample_live_photo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="sample_driving_licence.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sample_live_photo.png">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
